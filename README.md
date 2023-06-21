@@ -36,10 +36,8 @@
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl3651&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=zxl3651&show_icons=true">
 
-![Seonghyeon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=zxl3651)
+![Seonghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxl3651&show_icons=true&theme=dark)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
