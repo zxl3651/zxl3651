@@ -1,19 +1,5 @@
-<!--
-**zxl3651/zxl3651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Seonghyeon%20Github!&animation=twinkling&fontSize=70" />
+	<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Seonghyeon%20Github!&animation=twinkling&fontSize=70" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -25,7 +11,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
-
+<br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -36,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=GitHub&logoColor=white" />
 </div>
-
+<br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
@@ -53,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl3651&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=zxl3651&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=zxl3651)
+![Seonghyeon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=zxl3651)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
