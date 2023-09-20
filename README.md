@@ -53,5 +53,5 @@
 	<h3>🧑‍💻 Resume 🧑‍💻</h3>
 </div>
 <div align=center>
-	<a href="https://github.com/zxl3651/Resume">Resume으로 바로가기!</a>
+	<a href="https://triangular-puffin-d42.notion.site/_Resume-0e8aa2c1e59c421ca99e096f5e58dbaa?pvs=4)https://triangular-puffin-d42.notion.site/_Resume-0e8aa2c1e59c421ca99e096f5e58dbaa?pvs=4">Resume으로 바로가기!</a>
 </div>
