@@ -50,5 +50,8 @@
 </div>
 
 <div align=center>
+	<h3>🧑‍💻 Resume 🧑‍💻</h3>
+</div>
+<div align=center>
 	<a href="https://github.com/zxl3651/Resume">Resume으로 바로가기!</a>
 </div>
