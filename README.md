@@ -48,3 +48,7 @@
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxl3651)](https://solved.ac/zxl3651)
 </div>
+
+<div align=center>
+	<a href="https://github.com/zxl3651/Resume">Resume으로 바로가기!</a>
+</div>
