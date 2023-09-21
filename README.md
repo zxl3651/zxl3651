@@ -46,7 +46,7 @@
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxl3651)](https://solved.ac/zxl3651)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxl36512)](https://solved.ac/zxl36512)
 </div>
 
 <div align=center>
